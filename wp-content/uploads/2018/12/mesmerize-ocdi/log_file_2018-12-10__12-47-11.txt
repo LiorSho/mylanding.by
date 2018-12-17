@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://mylanding.by
+Data file = F:/web/OSPanel/domains/mylanding.by/wp-content/uploads/2018/12/mesmerize-ocdi/demo-content-import-file_2018-12-10__12-47-11.xml
+Widget file = F:/web/OSPanel/domains/mylanding.by/wp-content/uploads/2018/12/mesmerize-ocdi/demo-widgets-import-file_2018-12-10__12-47-11.json
+Customizer file = F:/web/OSPanel/domains/mylanding.by/wp-content/uploads/2018/12/mesmerize-ocdi/demo-customizer-import-file_2018-12-10__12-47-11.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Область виджетов в боковой колонке : 
+
+Поиск - No Title - Imported
+Свежие записи - No Title - Imported
+Свежие комментарии - No Title - Imported
+Архивы - No Title - Imported
+Рубрики - No Title - Imported
+Мета - No Title - Imported
+
+Pages Sidebar : 
+
+Поиск - Search - Imported
+Страницы - Pages - Imported
+Текст - Text Box - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
